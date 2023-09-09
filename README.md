@@ -1,5 +1,8 @@
 # MenuWebApp
 
+![finalProj](https://github.com/sudhanshun45/MenuWebApp/assets/83705523/6a9ff431-fd40-4573-be5e-92e3f296a618)
+
+
 **Advanced Web Application with Python, AWS, and Integrated Services**
 
 Welcome to the repository of an innovative web application that combines the power of Python programming and AWS cloud services to deliver a feature-rich and dynamic user experience. This project demonstrates the seamless integration of various technologies, including Python CGI as the backend framework, AWS services like EC2, S3, AWS Translate, AWS Rekognition, as well as email and SMS functionalities. Location-based features are also incorporated using Python.
