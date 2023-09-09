@@ -17,24 +17,6 @@ Welcome to the repository of an innovative web application that combines the pow
 
 - **Location Services:** Incorporating location-based features using Python further enriches user experiences. This feature could include geolocation services, mapping, and more.
 
-**Repository Structure:**
-
-- `/src`: This directory contains the source code for the Python CGI backend, including scripts responsible for handling user requests and integrating various services.
-
-- `/static`: Here, you'll find static assets such as HTML, CSS, JavaScript, and any media files required for the front-end of the application.
-
-- `/aws`: This section includes sample code snippets and configuration files showcasing the integration of AWS services using the `boto3` Python library.
-
-- `/docs`: Comprehensive documentation detailing project setup, usage, and integration steps is stored here, making it easier for developers to understand and contribute to the project.
-
-**Usage:**
-
-1. Clone the repository to your local environment.
-2. Follow the instructions in the `/docs` directory to set up and configure the project.
-3. Explore the `/src` and `/static` directories to understand the backend and frontend components of the application.
-4. Check out the `/aws` section to see how AWS services are integrated using `boto3`.
-5. Use the documentation as a reference to deploy, test, and enhance the application according to your needs.
-
 
 Experience the synergy of Python, AWS, and integrated services in action. Explore the power of this web application today!
 
